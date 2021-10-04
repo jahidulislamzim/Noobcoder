@@ -3,7 +3,6 @@ import { Card, Button } from "react-bootstrap";
 import "./Course.css";
 
 const Course = (props) => {
-  console.log(props.course.title);
   const {img, title, details, trainer, price } = props.course;
 
   return (

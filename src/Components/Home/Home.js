@@ -8,6 +8,7 @@ const Home = () => {
 
   const [courses] = useCourses();
   const someCourses = courses.slice(0, 4);
+
   return (
     <div>
       <div className="row d-flex justify-content-center align-items-center custom-home">
