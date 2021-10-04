@@ -1,0 +1,66 @@
+[
+    {
+        "key" : "34er345756",
+        "title" : "Python for Everybody Specialization",
+        "details" : "Learn to Program and Analyze Data with Python. Develop programs to gather, clean, analyze, and visualize data.",
+        "trainer" : "Charles Russell",
+        "price" : 300,
+        "img" : "https://www.netclipart.com/pp/m/246-2460605_development3-computer-programming-clipart.png"
+    },
+    {
+        "key" : "34756",
+        "title" : "Machine Learning",
+        "details" : "Machine learning is the science of getting computers to act without being explicitly programmed. In the past decade, machine learning has given us self-driving cars, practical speech recognition, effective web search, ",
+        "trainer" : "Andrew Ng",
+        "price" : 330,
+        "img" : "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fG1hY2hpbmUlMjBsZWFybmluZ3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "key" : "3475dgg456",
+        "title" : "The Science of Well-Being",
+        "details" : "In this course you will engage in a series of challenges designed to increase your own happiness and build more productive habits. As preparation for these tasks, Professor Laurie Santos reveals misconceptions about happiness, annoying features of the mind that lead us to think the way we do",
+        "trainer" : "Laurie Santos",
+        "price" : 550,
+        "img" : "https://media.istockphoto.com/photos/interior-of-chemistry-classroom-picture-id947838384?b=1&k=20&m=947838384&s=170667a&w=0&h=yEQ2NfAmLtdofD4KPHe972F_bGn1ch_5zWNjnQTifEI="
+    },
+    {
+        "key" : "347hsgsdfg443256",
+        "title" : "Learning How to Learn: Powerful mental tools ",
+        "details" : "This course gives you easy access to the invaluable learning techniques used by experts in art, music, literature, math, science, sports, and many other disciplines. We’ll learn about how the brain uses two very different learning modes and how it encapsulates (“chunks”) information. We’ll also cover illusions of learning, memory techniques, dealing with procrastination, and best practices shown by research to be most effective in helping you master tough subjects.",
+        "trainer" : "Barbara Oakley",
+        "price" : 700,
+        "img" : "https://media.istockphoto.com/photos/pencil-with-light-bulb-above-picture-id1151316013?b=1&k=20&m=1151316013&s=170667a&w=0&h=s1bSVmfyc-KnQZGnzFTsJu3yKqPLSC1FCc_TJjAmgfg="
+    },
+    {
+        "key" : "3475fsddfsewr6",
+        "title" : "Programming Languages, Part B",
+        "details" : "This course is an introduction to the basic concepts of programming languages, with a strong emphasis on functional programming. The course uses the languages ML, Racket, and Ruby as vehicles for teaching the concepts, ",
+        "trainer" : "Dan Grossman",
+        "price" : 200,
+        "img" : "https://media.istockphoto.com/photos/back-rear-view-of-young-asian-woman-freelance-data-scientist-work-at-picture-id1313496084?b=1&k=20&m=1313496084&s=170667a&w=0&h=qk4ImnQb7NkaQPvf3HZm5uF1tlr-eWipdwU6wIk0i8g="
+    },
+        {
+        "key" : "34756",
+        "title" : "Machine Learning",
+        "details" : "Machine learning is the science of getting computers to act without being explicitly programmed. In the past decade, machine learning has given us self-driving cars, practical speech recognition, effective web search, ",
+        "trainer" : "Andrew Ng",
+        "price" : 330,
+        "img" : "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fG1hY2hpbmUlMjBsZWFybmluZ3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "key" : "3475dgg456",
+        "title" : "The Science of Well-Being",
+        "details" : "In this course you will engage in a series of challenges designed to increase your own happiness and build more productive habits. As preparation for these tasks, Professor Laurie Santos reveals misconceptions about happiness, annoying features of the mind that lead us to think the way we do",
+        "trainer" : "Laurie Santos",
+        "price" : 550,
+        "img" : "https://media.istockphoto.com/photos/interior-of-chemistry-classroom-picture-id947838384?b=1&k=20&m=947838384&s=170667a&w=0&h=yEQ2NfAmLtdofD4KPHe972F_bGn1ch_5zWNjnQTifEI="
+    },
+    {
+        "key" : "347hsgsdfg443256",
+        "title" : " Learning How to Learn: Powerful mental tools",
+        "details" : "This course gives you easy access to the invaluable learning techniques used by experts in art, music, literature, math, science, sports, and many other disciplines. We’ll learn about how the brain uses two very different learning modes and how it encapsulates (“chunks”) information. We’ll also cover illusions of learning, memory techniques, dealing with procrastination, and best practices shown by research to be most effective in helping you master tough subjects.",
+        "trainer" : "Barbara Oakley",
+        "price" : 700,
+        "img" : "https://media.istockphoto.com/photos/pencil-with-light-bulb-above-picture-id1151316013?b=1&k=20&m=1151316013&s=170667a&w=0&h=s1bSVmfyc-KnQZGnzFTsJu3yKqPLSC1FCc_TJjAmgfg="
+    }
+]

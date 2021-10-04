@@ -1,0 +1,47 @@
+
+.custom-home {
+    height:100vh;
+}
+
+.hrader-title {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.hrader-title h1 {
+    font-size: 60px;
+}
+
+.hrader-title p
+{
+    width:350px;
+    margin:10px;
+}
+
+.image img
+{
+    width: 500px;
+}
+
+.button{
+font-size: 18px;
+font-weight:500;
+}
+
+
+.button:active,
+.button:focus
+{
+    outline:none !important;
+    box-shadow:none !important;
+     background:transparent;
+     color:#222;
+     border:solid 2px #222;
+}
+
+.button:hover{
+    background:transparent;
+    color:#222;
+    border:solid  2px #222;
+}

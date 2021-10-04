@@ -1,0 +1,35 @@
+
+
+
+.blog{
+    display: flex;
+padding: 15px;
+background-color: #ecf0f3;
+border-radius: 25px;
+}
+.blog img{
+ width:150px;
+ height: 150px;
+}
+
+
+.blog-btn {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+
+.blog-btn:active,
+.blog-btn:focus {
+    outline: none !important;
+    box-shadow: none !important;
+    background: transparent;
+    color: #222;
+    border: solid 2px #222;
+}
+
+.blog-btn:hover {
+    background: transparent;
+    color: #222;
+    border: solid 2px #222;
+}
